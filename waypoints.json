@@ -1,1 +1,11 @@
-{}
+{
+  "warning_1755945010793_1234asdf": {
+    "name": "warning_1755945010793_1234asdf",
+    "x": 218,
+    "y": 66,
+    "z": -231,
+    "owner": "1234asdf",
+    "timestamp": 1755945010793,
+    "world": "Singleplayer"
+  }
+}
