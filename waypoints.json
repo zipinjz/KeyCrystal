@@ -7,5 +7,14 @@
     "owner": "1234asdf",
     "timestamp": 1755945016987,
     "world": "Singleplayer"
+  },
+  "warning_1755945019904_1234asdf": {
+    "name": "warning_1755945019904_1234asdf",
+    "x": 302,
+    "y": 108,
+    "z": -264,
+    "owner": "1234asdf",
+    "timestamp": 1755945019904,
+    "world": "Singleplayer"
   }
 }
